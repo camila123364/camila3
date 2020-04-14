@@ -1,0 +1,114 @@
+h1{
+    font-family: cursive;
+    font-size: 75px;
+    color: black;
+    background: yellow;
+   text-align: center;
+   
+}
+img{
+    width: 300px;
+    height: 300px;
+    background: bisque;
+    
+ 
+    
+}
+video{
+    
+    width: 300px;
+    height: 300px;
+}
+h2{
+    font-family: fantasy;
+    font-size: 50PX;
+    color: white;
+    background: aqua;
+   text-align: center;
+    text-align: CENTER;
+}
+h3{
+    
+    font-size: 35PX;
+    color: black;
+    background: pink;
+   text-align: center;
+   
+}
+*{
+ MARGIN: 0;
+ PADDING: 0;
+ box-sizing: border-box;
+   
+}
+.form-register {
+    widh: 400px;
+    background: black;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family:inherit;
+    color: white;
+    box-shadow: 7PX 13PX 37PX RED;
+    
+    
+    
+}
+.FORM-REGISTER H4{
+    
+    font-size: 22PX;
+    margin-bottom: 20PX;
+    
+  }
+  
+  .CONTROLS{
+      width: 100%;
+      background: yellow;
+      PADDING: 10PX;
+      border-radius: 4PX;
+      margin-bottom: 16PX;
+      BORDER: 1PX SOLID YELLOW;
+      font-family: FANTASY;
+      font-size: 18PX;
+      
+  }
+  .FORM-REGISTER P {
+      height: 40PX;
+      text-align: CENTER;
+      font-size: 18PX;
+      line-height: 40PX;
+      
+      
+      
+  }
+  
+  .FORM-REGISTER A {
+      COLOR: WHITE;
+      text-decoration: NONE;
+      
+      
+      
+      
+  }
+   
+  .FORM-REGISTER A:HOVER {
+      COLOR: WHITE;
+      text-decoration: underline;
+      
+      
+      
+      
+  }
+  .FORM-REGISTER .BOTONS{
+      width: 100%;
+      background: BLUE;
+      border: NONE;
+      padding: 12PX;
+      COLOR: RED;
+      margin: 16PX 0;
+      font-size: 16PX;
+      
+      
+      
+  }
